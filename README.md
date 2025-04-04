@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ```csharp
 // My main programming languages
 const dev = {
-  languages: ["C#", "JavaScript", "TypeScript"],
-  frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
+  languages: ["C#", "JavaScript"],
+  frontend: ["React", "HTML5", "CSS3", "Tailwind"],
   backend: ["ASP.NET", "Node.js", "Express"],
-  databases: ["SQL Server", "MongoDB"],
-  tools: ["Git", "Docker", "Azure"]
+  databases: ["SQL Server", "PostgreSQL"],
+  tools: ["Git", "Swagger"]
 };
 ```
 ## 🎮 GitHub Stats & Trophies
